@@ -1,0 +1,15 @@
+Assignment 2
+
+Task (1)
+        1. Everyone look at code
+        2. & 3 Ciaran find data set and preprocess, possibly do data augmentation
+        4.
+        5. 
+
+Tasks (2) 
+        1. Everyone have a look at code (no action needed)
+        2. Ciaran - Experiment with different training splits - generate plot of different results
+        3. Liam - Create and train model, experiment on how to make more accurate and generate plot
+        4. Ayush - Same as 3 but for a text-to-image
+        5. Ciaran - LSTM layers once 3 and 4 completed
+
